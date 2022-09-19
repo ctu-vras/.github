@@ -1,5 +1,7 @@
 # Vision for Robotics and Autonomous Systems (VRAS)
 
+<img src="vras_logo.png" alt="Vision for Robotics and Autonomous Systems (VRAS)" width=256 />
+
 We are interested in machine learning for robot perception. We research algorithms that map RGB, depth, Lidar, and thermal data onto robot behavior. We work with outdoor tracked robots, humanoid robots and also collaborate with automotive – autonomous cars.
 
 We are always looking for strongly motivated Ph.D. students as well as undergraduate students. We often have an opening for post-doc positions. If you are interested in what we are doing and want to join us, send us your resume to Tomas Svoboda.
