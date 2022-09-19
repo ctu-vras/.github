@@ -1,6 +1,6 @@
 # Vision for Robotics and Autonomous Systems (VRAS)
 
-![Vision for Robotics and Autonomous Systems](/profile/vras_header.png)
+![Vision for Robotics and Autonomous Systems](/profile/vras.png)
 
 We are interested in machine learning for robot perception. We research algorithms that map RGB, depth, Lidar, and thermal data onto robot behavior. We work with outdoor tracked robots, humanoid robots and also collaborate with automotive – autonomous cars.
 
